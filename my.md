@@ -40,6 +40,12 @@ IndexJoinScan (simpledb.index.query)
 MultiBufferProductScan (simpledb.multibuffer)
 SortScan (simpledb.materialize)
 
+AggregationFn
+file:///D:/develops/git/github/java/simpledb2_mvn/target/apidocs/simpledb/materialize/AggregationFn.html
+
+CountFn (simpledb.materialize)
+MaxFn (simpledb.materialize)
+
 simpledb.query.UpdateScan
 file:///D:/develops/git/github/java/simpledb2_mvn/target/apidocs/simpledb/query/UpdateScan.html
 
