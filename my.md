@@ -212,3 +212,8 @@ simpledb.tx.recovery.SetIntRecord@14514713
 <SETSTRING 1 [file tableCatalog.tbl, block 0] 4 >
 simpledb.tx.recovery.SetIntRecord@69663380
 <START 1>
+
+
+RemoteStatementImpl
+    RemoteResultSet executeQuery(String query)
+    int executeUpdate(String cmd)
