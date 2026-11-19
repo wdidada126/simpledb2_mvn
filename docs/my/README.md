@@ -14,3 +14,16 @@
 
 此外，社区还基于这本书移植出了其他语言版本，如 [Rust 版](https://github.com/cutsea110/simpledb) 和 [Go 版](https://github.com/tyabu12/simpledb)，本仓库对应的是其中的 Java 版本。
 
+《Database Design and Implementation, 2nd Edition》的 ISBN 因版本格式不同而有所区别：
+
+### 核心 ISBN 信息
+
+*   平装本 (Paperback)：9783030338350
+*   电子书 (eBook)：9783030338367
+
+### 其他相关信息
+*   作者：Edward Sciore
+*   出版社：Springer
+*   出版年份：2020 年
+*   DOI：10.1007/978-3-030-33836-7
+
